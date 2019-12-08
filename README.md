@@ -18,9 +18,9 @@ The full project requirements can be found
 > Clone the repository to your local machine
 
 ```sh
-$ https://batu1905.github.io/LoanCalculator/
+$ https://batuhanyilmazzz.github.io/LoanCalculator/
 ```
-or just open from https://batu1905.github.io/LoanCalculator/
+or just open from https://batuhanyilmazzz.github.io/LoanCalculator/
 
 
 
